@@ -1,0 +1,5 @@
+# Sample TikTok profile URLs (one per line). You can mix profile and video URLs.
+https://www.tiktok.com/@tiktok
+https://www.tiktok.com/@scout2015
+# Example video URL – the parser will attempt to resolve the author profile:
+https://www.tiktok.com/@tiktok/video/6807491984882765062
