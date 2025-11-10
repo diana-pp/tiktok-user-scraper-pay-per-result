@@ -1,0 +1,7 @@
+{
+  "output_format": "json",
+  "max_workers": 5,
+  "request_timeout": 10,
+  "retry_attempts": 2,
+  "notes": "Copy this file to settings.json and adjust values as needed for your environment."
+}
